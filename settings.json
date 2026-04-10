@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Sabka papa",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "SMPoffriends-Y2yo.aternos.me:59899"
+    "port": 59899, 
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "67676969"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "mera naam hai mithha",
+        "me sabka papa hu",
+        "me ek normal player hu"
       ]
     },
     "chat-log": true,
@@ -46,7 +46,7 @@
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 3000
+      "speed": 6000
     },
     "look-around": {
       "enabled": true,
